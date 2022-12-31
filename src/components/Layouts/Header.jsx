@@ -28,7 +28,7 @@ const Header = () => {
                             fontSize={{ base: '3xl', md: '5xl' }}
                             bgColor = {"#01bf71"}
                             bgClip="text" style={{fontFamily: 'Rubik'}}>
-                            Build Your Resume In Minutes Using ResumeFi
+                            Create Your Resume in Minutes With ResumeFi
                         </Heading>
 
                         <Text color={'gray.600'} lineHeight={1.7} style={{ fontFamily: 'Poppins' }}>
