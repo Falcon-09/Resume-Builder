@@ -15,7 +15,7 @@ Resume Generator that will generate a customised resume based on your specificat
 ![netlify](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Sneak  Peek of Home Page 🙈 :
-![pic1](https://user-images.githubusercontent.com/57940556/210134139-c4438844-0594-4968-8128-165d610ad40d.png)
+![pic1](https://user-images.githubusercontent.com/57940556/210140345-e492d334-ee5a-4368-85a3-c9c437e3dbea.png)
 ![pic2](https://user-images.githubusercontent.com/57940556/210137932-858b66dc-f781-4528-accb-25cc5829ce92.png)
 
 
